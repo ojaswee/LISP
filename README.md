@@ -1,2 +1,2 @@
 # LISP
-short programs in LISP programming language
+Sorting programs in LISP programming language
