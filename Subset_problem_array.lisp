@@ -1,13 +1,9 @@
 #|
 Name: Ojaswee Dhungana
-LISP language 
+LISP Language 
 
-create a list or an array of random integers (e.g., between [0, 50]) and 
-a target number (e.g., 60), then find all subsets of the integers of the list/array 
-such that the numbers in each subsets add up to the target number. Print the numbers 
-of each subset, you also need to print the original indices of the numbers. For example, 
-given array A = {5, 3, 4, 2, 6, 7}, target = 9, the number pairs are (5, 4), (3, 6), 
-(2, 7), and (3, 4, 2). Their indices are (0, 2), (1, 4), (3, 5), and (1, 2, 3), respectively.
+create an array of random integers and a target number, then find all subsets of the integers 
+that add up to the target number. Print the numbers and print the original indices of the numbers. 
 |#
 
 ;(load "c:/users/UserName/FILELOCATION/Subset_problem.lisp")
